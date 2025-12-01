@@ -24,6 +24,7 @@ I'm **Celine**, a full-stack developer and network operations engineer with expe
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=asm&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
 ### **Frameworks & Tools**
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
