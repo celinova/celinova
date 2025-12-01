@@ -22,6 +22,8 @@ I'm **Celine**, a full-stack developer and network operations engineer with expe
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logo=asm&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 ### **Frameworks & Tools**
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
