@@ -51,8 +51,6 @@ I currently work in **Network Operations**, where I’ve gained experience with:
 - Working with enterprise-grade networking equipment  
 - Supporting infrastructure across distributed environments  
 
-This background shapes how I architect systems: with reliability, clarity, and resilience in mind.
-
 ---
 
 ## 📊 GitHub Stats
